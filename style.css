@@ -1,0 +1,66 @@
+.nav{ 
+    display: flex;
+    font-size: 15px;
+    background-color: magenta;
+    justify-content: center;
+    
+}
+
+.p{
+    font-size: 20px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.list{
+    color: aqua;
+}
+.nav a {
+    color: brown;
+    display: flex;
+margin: 5px;
+text-align: center;
+text-decoration: 0;
+margin-left: 4%;
+
+}
+
+nav{
+    background-color: black;
+
+}
+.h1{
+    color: blueviolet;
+}
+.h2{
+    color: crimson;
+}
+
+.ol{
+    color: greenyellow;
+    display: block;
+}
+
+
+.form{
+    color: yellow;
+}
+.main_footer{
+    color: red;
+}
+
+a:link{
+    color: orangered;
+}
+
+
+a:visited{
+    color: yellow;
+}
+
+a:hover{
+    color: black;
+}
+
+a:active{
+    color: burlywood;
+}
